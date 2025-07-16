@@ -11,6 +11,8 @@
 - [Rlmc](https://github.com/raissalmc/rlmc)
 
 📫 **Contato:** [Linkedin](www.linkedin.com/in/raissalmc)
+[LinkedIn](https://www.linkedin.com/in/raissalmc)
+
 
 ![Raíssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=raissalmc&show_icons=true&theme=radical)
 
