@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Raíssa Lorrany
 
-🌪️ “Às vezes o bug vence. Mas eu volto amanhã.”
+
 
 🎓 **Formação:** Acadêmica em sistemas de informação  
 💻 **Habilidades:** HTML, CSS, JavaScript e PHP.
@@ -10,7 +10,7 @@
 - [PapelSoft](https://github.com/raissalmc/PapelSoft)
 - [Rlmc](https://github.com/raissalmc/rlmc)
 
-📫 **Contato:** [Linkedin](www.linkedin.com/in/raissalmc)
+📫 **Contato:** 
 [LinkedIn](https://www.linkedin.com/in/raissalmc)
 
 
